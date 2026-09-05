@@ -1,0 +1,10 @@
+qiskit>=1.0.0
+qiskit-aer
+qiskit-algorithms
+qiskit-optimization
+yfinance
+pandas
+numpy
+matplotlib
+seaborn
+streamlit
